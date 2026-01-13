@@ -40,13 +40,13 @@ Busco evoluir continuamente como desenvolvedor, criando soluções reais, bem es
 <table align="center">
   <tr>
     <!-- TRIÂNGULO ESQUERDO (TOPO) -->
-    <td align="center" colspan="4">
+    <td align="center" colspan="3">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/>
     </td>
     <!-- ESPAÇO CENTRAL -->
     <td></td>
     <!-- TRIÂNGULO DIREITO (TOPO) -->
-    <td align="center" colspan="">
+    <td align="center" colspan="2">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60"/>
     </td>
   </tr>
