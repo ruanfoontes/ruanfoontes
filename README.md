@@ -1,6 +1,6 @@
 # 👨‍💻 Ruan Fontes
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedor Backend`**
 
 Desenvolvedor Java com foco em Spring Boot e desenvolvimento backend, construindo aplicações web orientadas a arquitetura, boas práticas e crescimento escalável. Venho desenvolvendo um sistema de agendamento SaaS multiempresa, com separação clara de camadas, regras de negócio bem definidas e foco em uso real por clientes finais (web e mobile).
 
