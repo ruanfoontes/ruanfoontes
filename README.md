@@ -20,6 +20,22 @@ APIs REST
 
 Git & GitHub
 
+📌 O que você encontra nos meus repositórios
+
+Implementação de CRUD completo
+
+Autenticação e controle de sessão
+
+Integração com banco de dados relacional
+
+Estrutura em camadas (Controller, Service, Repository)
+
+Testes de endpoints com Postman
+
+🎯 Objetivo Profissional
+
+Busco oportunidade como Desenvolvedor Júnior ou Estagiário para aplicar conhecimentos técnicos, evoluir em ambiente profissional e contribuir com soluções eficientes.
+
 </p>
     <a href="https://github.com/ruanfoontes?tab=repositories&sort=stargazers">
         <img 
