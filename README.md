@@ -1,12 +1,24 @@
-# 👨‍💻 Ruan Fontes
+👨‍💻 Ruan Fontes de Jesus
 
-**`Desenvolvedor Backend`**
+Desenvolvedor Back-End com foco em construção de APIs REST e aplicações web utilizando Java com Spring Boot e Python com Flask.
 
-Desenvolvedor Java com foco em Spring Boot e desenvolvimento backend, construindo aplicações web orientadas a arquitetura, boas práticas e crescimento escalável. Venho desenvolvendo um sistema de agendamento SaaS multiempresa, com separação clara de camadas, regras de negócio bem definidas e foco em uso real por clientes finais (web e mobile).
+Atualmente desenvolvendo projetos autorais com autenticação, integração com banco de dados relacional e organização de código seguindo boas práticas.
 
-Tenho experiência prática com APIs REST, JPA/Hibernate, modelagem de domínio, versionamento com Git/GitHub e organização de projetos seguindo princípios de DDD (Domain-Driven Design). Possuo conhecimento em arquitetura de microserviços, integração entre sistemas e conceitos de mensageria com Kafka, aplicando esses fundamentos em estudos e projetos práticos.
+🚀 Stack Principal
 
-Busco evoluir continuamente como desenvolvedor, criando soluções reais, bem estruturadas e prontas para produção.
+Java
+
+Spring Boot
+
+Python
+
+Flask
+
+MySQL
+
+APIs REST
+
+Git & GitHub
 
 </p>
     <a href="https://github.com/ruanfoontes?tab=repositories&sort=stargazers">
