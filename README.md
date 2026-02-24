@@ -6,17 +6,11 @@ Atualmente desenvolvendo projetos autorais com autenticação, integração com 
 
 🚀 Stack Principal
 
-Java
+Java  Spring Boot
 
-Spring Boot
+Python Flask
 
-Python
-
-Flask
-
-MySQL
-
-APIs REST
+MySQL APIs REST
 
 Git & GitHub
 
