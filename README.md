@@ -5,27 +5,34 @@ Desenvolvedor Back-End com foco em construção de APIs REST e aplicações web 
 Atualmente desenvolvendo projetos autorais com autenticação, integração com banco de dados relacional e organização de código seguindo boas práticas.
 
 🚀 Stack Principal
+Java
 
-| Java & Spring Boot |
+Spring Boot
 
-| Python & Flask     |
+Python
 
-| MySQL & APIs REST  |
+Flask
 
-| Git & GitHub       |
+MySQL
+
+APIs REST
+
+Git & GitHub
 
 📌 O que você encontra nos meus repositórios
 
-Implementação de CRUD completo
+CRUD completo com persistência em banco de dados
 -------------------------------
 Autenticação e controle de sessão
 -------------------------------
-Integração com banco de dados relacional
+Estruturação em camadas (MVC)
 -------------------------------
-Estrutura em camadas (Controller, Service, Repository)
+Integração front-end e back-end
 -------------------------------
 Testes de endpoints com Postman
 -------------------------------
+Organização de código seguindo boas práticas
+
 🎯 Objetivo Profissional
 
 Busco oportunidade como Desenvolvedor Júnior ou Estagiário para aplicar conhecimentos técnicos, evoluir em ambiente profissional e contribuir com soluções eficientes.
