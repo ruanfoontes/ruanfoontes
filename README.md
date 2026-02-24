@@ -6,26 +6,26 @@ Atualmente desenvolvendo projetos autorais com autenticação, integração com 
 
 🚀 Stack Principal
 
-Java  Spring Boot
+| Java & Spring Boot |
 
-Python Flask
+| Python & Flask     |
 
-MySQL APIs REST
+| MySQL & APIs REST  |
 
-Git & GitHub
+| Git & GitHub       |
 
 📌 O que você encontra nos meus repositórios
 
 Implementação de CRUD completo
-
+-------------------------------
 Autenticação e controle de sessão
-
+-------------------------------
 Integração com banco de dados relacional
-
+-------------------------------
 Estrutura em camadas (Controller, Service, Repository)
-
+-------------------------------
 Testes de endpoints com Postman
-
+-------------------------------
 🎯 Objetivo Profissional
 
 Busco oportunidade como Desenvolvedor Júnior ou Estagiário para aplicar conhecimentos técnicos, evoluir em ambiente profissional e contribuir com soluções eficientes.
