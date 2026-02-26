@@ -1,23 +1,14 @@
-👨‍💻 Ruan Fontes de Jesus
+👨‍💻 Ruan Fontes
 
-Desenvolvedor Back-End com foco em construção de APIs REST e aplicações web utilizando Java com Spring Boot e Python com Flask.
+**Desenvolvedor BackEnd**
+
+Olá, me chamo Ruan sou desenvolvedor BackEnd com foco em construção de APIs REST e aplicações web utilizando Java com Spring Boot e Python com Flask.
 
 Atualmente desenvolvendo projetos autorais com autenticação, integração com banco de dados relacional e organização de código seguindo boas práticas.
 
-🚀 Stack Principal
-Java
+🔥 Stack Principal
 
-Spring Boot
-
-Python
-
-Flask
-
-MySQL
-
-APIs REST
-
-Git & GitHub
+Java | Spring Boot | Python | Flask | MySQL | APIs REST | Git & GitHub | postgresql | HTML | CSS
 
 📌 O que você encontra nos meus repositórios
 
@@ -66,46 +57,18 @@ Busco oportunidade como Desenvolvedor Júnior ou Estagiário para aplicar conhec
 
 ### 🤖 Linguagens e Tecnologias
 
-<table align="center">
-  <tr>
-    <!-- TRIÂNGULO ESQUERDO (TOPO) -->
-    <td align="center" colspan="3">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/>
-    </td>
-    <!-- ESPAÇO CENTRAL -->
-    <td></td>
-    <!-- TRIÂNGULO DIREITO (TOPO) -->
-    <td align="center" colspan="2">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60"/>
-    </td>
-  </tr>
-  <tr>
-    <!-- TRIÂNGULO ESQUERDO (BASE) -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60"/>
-    </td>
-    <!-- VS CODE (CENTRO) -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="70"/>
-    </td>
-    <!-- TRIÂNGULO DIREITO (BASE) -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50"/> 
+</p>
 
 
 
