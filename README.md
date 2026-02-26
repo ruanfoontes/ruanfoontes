@@ -77,8 +77,10 @@ Busco oportunidade como Desenvolvedor Júnior ou Estagiário para aplicar conhec
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruanfoontes&theme=tokyonight" />
-
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=ruanfoontes&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruanfoontes&theme=tokyonight&locale=pt-br&langs_count=8"/>
+</p>
 
