@@ -1,32 +1,34 @@
-👨‍💻 Ruan Fontes
+Ruan Fontes
 
-**Desenvolvedor BackEnd**
+**BackEnd Developer**
 
-Olá, me chamo Ruan sou desenvolvedor BackEnd com foco em construção de APIs REST e aplicações web utilizando Java com Spring Boot e Python com Flask.
+Hi, my name is Ruan, and I'm a BackEnd developer focused on building REST APIs and web applications using Java with Spring Boot and Python with Flask.
 
-Atualmente desenvolvendo projetos autorais com autenticação, integração com banco de dados relacional e organização de código seguindo boas práticas.
+Currently developing original projects with authentication, relational database integration, and code organization following best practices.
 
-🔥 Stack Principal
+🔥 Main Stack
 
-Java | Spring Boot | Python | Flask | MySQL | APIs REST | Git & GitHub | postgresql | HTML | CSS
+Java | Spring Boot | Python | Flask | MySQL | REST APIs | Git & GitHub | PostgreSQL | HTML | CSS
 
-📌 O que você encontra nos meus repositórios
+📌 What you'll find in my repositories
 
-CRUD completo com persistência em banco de dados
+Complete CRUD with database persistence
 -------------------------------
-Autenticação e controle de sessão
+Authentication and session control
 -------------------------------
-Estruturação em camadas (MVC)
+Layered structuring (MVC)
 -------------------------------
-Integração front-end e back-end
+Front-end and back-end integration
 -------------------------------
-Testes de endpoints com Postman
+Endpoint testing with Postman
 -------------------------------
-Organização de código seguindo boas práticas
+Code organization following best practices
 
-🎯 Objetivo Profissional
+🎯 Professional Objective
 
-Busco oportunidade como Desenvolvedor Júnior ou Estagiário para aplicar conhecimentos técnicos, evoluir em ambiente profissional e contribuir com soluções eficientes.
+I am seeking an opportunity as a Junior Developer or Intern to apply my technical knowledge, grow in a professional environment, and contribute with efficient solutions.
+
+## 📊 Statistics
 
 </p>
     <a href="https://github.com/ruanfoontes?tab=repositories&sort=stargazers">
@@ -55,7 +57,7 @@ Busco oportunidade como Desenvolvedor Júnior ou Estagiário para aplicar conhec
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 languages ​​and technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50"/>
@@ -77,7 +79,7 @@ Busco oportunidade como Desenvolvedor Júnior ou Estagiário para aplicar conhec
 <br/>
 <br/>
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=ruanfoontes&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br"/>
