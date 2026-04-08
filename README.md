@@ -10,19 +10,16 @@ Currently developing original projects with authentication, relational database 
 
 Java | Spring Boot | Python | Flask | MySQL | REST APIs | Git & GitHub | PostgreSQL | HTML | CSS
 
-📌 What you'll find in my repositories
+### 📌 What you will find in my repositories
 
-Complete CRUD with database persistence
--------------------------------
-Authentication and session control
--------------------------------
-Layered structuring (MVC)
--------------------------------
-Front-end and back-end integration
--------------------------------
-Endpoint testing with Postman
--------------------------------
-Code organization following best practices
+| Feature | Technologies & Tools |
+| :--- | :--- |
+| **Full-Stack Integration** | Java Spring Boot, JavaScript (Fetch API), HTML5/CSS3 |
+| **Database Persistence** | MySQL, PostgreSQL, Spring Data JPA, Hibernate |
+| **Auth & Security** | Session Control, JWT, Password Encryption, CORS |
+| **Software Architecture** | MVC Pattern, Layered Architecture, Clean Code |
+| **API Testing & Docs** | Postman, Insomnia, Swagger/OpenAPI |
+| **DevOps & Versioning** | Git, GitHub, Maven, Docker |
 
 🎯 Professional Objective
 
