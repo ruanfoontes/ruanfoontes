@@ -1,7 +1,8 @@
-Ruan Fontes
-
-**BackEnd Developer**
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=30A3DC&center=true&vCenter=true&width=500&lines=Hello,+my+name+is+Ruan;Back-End+Developer" alt="Typing SVG" />
+  </a>
+</p>
 Hi, my name is Ruan, and I'm a BackEnd developer focused on building REST APIs and web applications using Java with Spring Boot and Python with Flask.
 
 Currently developing original projects with authentication, relational database integration, and code organization following best practices.
