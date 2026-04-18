@@ -26,7 +26,6 @@ Java | Spring Boot | Python | Flask | MySQL | REST APIs | Git & GitHub | Postgre
 I am seeking an opportunity as a Junior Developer or Intern to apply my technical knowledge, grow in a professional environment, and contribute with efficient solutions.
 
 ## 📊 Statistics
-
 </p>
     <a href="https://github.com/ruanfoontes?tab=repositories&sort=stargazers">
         <img 
@@ -79,9 +78,18 @@ I am seeking an opportunity as a Junior Developer or Intern to apply my technica
 ## 📊 Statistics
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=ruanfoontes&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruanfoontes&theme=tokyonight&locale=pt-br&langs_count=8"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ruanfoontes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars" />
+  </a>
 </p>
+
+<p align="center">
+  <img height="140" src="https://streak-stats.demolab.com?user=ruanfoontes&theme=transparent&background=000&border=30A3DC&stroke=30A3DC&ring=E94D5F&fire=E94D5F&currStreakLabel=30A3DC&include_all_commits=true&locale=pt-br&hide_border=false"/>
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanfoontes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&icon_color=30A3DC&hide_border=false"/>
+</p>
+
+
 
 
 <picture>
