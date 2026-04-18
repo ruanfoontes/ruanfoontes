@@ -22,11 +22,12 @@ Java | Spring Boot | Python | Flask | MySQL | REST APIs | Git & GitHub | Postgre
 | **API Testing & Docs** | Postman, Insomnia, Swagger/OpenAPI |
 | **DevOps & Versioning** | Git, GitHub, Maven, Docker |
 
+
 🎯 Professional Objective
 
-I am seeking an opportunity as a Junior Developer or Intern to apply my technical knowledge, grow in a professional environment, and contribute with efficient solutions.
+Software developer specializing in creating practical solutions for complex systems. Possesses experience in modernizing legacy code and optimizing critical architectures to ensure scalability and efficiency.
 
-## 📊 Statistics
+## 📍Follow me
 </p>
     <a href="https://github.com/ruanfoontes?tab=repositories&sort=stargazers">
         <img 
